@@ -20,3 +20,10 @@ Because sometimes, we will have to handle edge cases like this, a column has `,`
 - Read file
 - Deal with the CSV
 - `strings.SplitSeq()` to return iterator
+
+## Todo
+
+- [x] handle pass-in arguments
+- [x] read file csv
+- [x] handle csv row parsing
+- [x] calculate statistics
