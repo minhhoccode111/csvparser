@@ -27,3 +27,4 @@ Because sometimes, we will have to handle edge cases like this, a column has `,`
 - [x] read file csv
 - [x] handle csv row parsing
 - [x] calculate statistics
+- [ ] add concurrency and optimize for [One Billion Row Challenge](https://www.bytesizego.com/blog/one-billion-row-challenge-go) :)
